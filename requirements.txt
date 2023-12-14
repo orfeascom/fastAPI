@@ -1,1 +1,6 @@
 fastapi[all]
+psycopg2
+SQLAlchemy
+passlib[bcrypt]
+python-jose[cryptography]
+alembic

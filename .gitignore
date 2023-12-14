@@ -1,2 +1,5 @@
 venv/
 info.txt
+*.pyc
+psycopg.txt
+.env
